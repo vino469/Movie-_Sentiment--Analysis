@@ -34,7 +34,6 @@ The trained machine learning model is deployed using Streamlit, allowing users t
 - Joblib
 
 ---
-
 ## Project Structure
 
 ```text
