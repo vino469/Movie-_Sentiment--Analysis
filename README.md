@@ -36,21 +36,21 @@ The trained machine learning model is deployed using Streamlit, allowing users t
 ---
 
 ## Project Structure
-Movie-Sentiment-Analysis/
 
+```text
+Movie-Sentiment-Analysis/
 │
 ├── dataset/
-│ └── movie_reviews.csv
+│   └── movie_reviews.csv
 │
 ├── model/
-│ ├── sentiment_model.pkl
-│ └── tfidf_vectorizer.pkl
+│   ├── sentiment_model.pkl
+│   └── tfidf_vectorizer.pkl
 │
 ├── app.py
 ├── train_model.py
 ├── requirements.txt
 └── README.md
-
 ---
 
 ## Project Workflow
