@@ -36,8 +36,6 @@ The trained machine learning model is deployed using Streamlit, allowing users t
 ---
 
 ## Project Structure
-
-
 Movie-Sentiment-Analysis/
 
 │
@@ -52,7 +50,6 @@ Movie-Sentiment-Analysis/
 ├── train_model.py
 ├── requirements.txt
 └── README.md
-
 
 ---
 
